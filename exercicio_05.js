@@ -1,7 +1,7 @@
 let contagem = 8;
 
-while (contagem >= 0){
-    console.log(`Contagem regressiva: ${contagem}`);
-    contagem--;
+while (contagem >= 0) {
+  console.log(`Contagem regressiva: ${contagem}`);
+  contagem--;
 }
-console.log(`FIM!`)
+console.log(`FIM!`);
