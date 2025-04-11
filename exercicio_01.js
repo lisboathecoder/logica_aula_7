@@ -1,6 +1,6 @@
 let numero = 1;
 
 while (numero <= 10){
-    console.log(`Contagem: ${numero}`);
+    console.log(`Contagem:  ${numero}`);
     numero++;
 }
